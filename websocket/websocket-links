@@ -1,0 +1,20 @@
+
+
+
+wss://ws.pusherapp.com:443/app/de504dc5763aeef9ff52?client=java-client&protocol=5&version=1.8.0
+
+
+GET /app/de504dc5763aeef9ff52?client=java-client&protocol=5&version=1.8.0 HTTP/1.1
+Connection: Upgrade
+Host: ws.pusherapp.com:443
+Sec-WebSocket-Key: +ucz/NQYZygo7VNJyxxrng==
+Sec-WebSocket-Version: 13
+Upgrade: websocket
+
+{"event":"pusher:subscribe","data":{"channel":"order_book"}}
+
+
+
+
+https://github.com/TakahikoKawasaki/nv-websocket-client
+nv-websocket-client

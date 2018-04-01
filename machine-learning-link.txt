@@ -1,0 +1,9 @@
+https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal
+Hello World - Machine Learning Recipes #1
+
+
+Weka is java library for machine learning.
+
+
+
+https://github.com/kantega/sql-dsl

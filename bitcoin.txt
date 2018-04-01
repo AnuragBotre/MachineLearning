@@ -1,0 +1,112 @@
+https://www.youtube.com/watch?v=y96o25WtSbo
+https://github.com/wobine/blackboard101/blob/master/call%20all%20apis%20-%20exchanges.py
+
+
+Bit coin API's
+
+Need list of exchange
+1> Get Ask Price
+2> Get Bid price
+3> Last trades or orders
+4> predict if it is going up or down
+5>  Going up or down is sufficient for now
+        - for each price rise or fall sentiment analysis is possible
+6>
+
+Will try with this
+wss://ws.pusherapp.com:443/app/de504dc5763aeef9ff52?client=java-client&protocol=5&version=1.8.0
+
+
+
+Bitcoin-Ticker-using-Websocket-API
+https://github.com/HebleV/Bitcoin-Ticker-using-Websocket-API
+This displays the realtime bitcoin price and also updates price in
+realtime using websocket.
+It also displays the asking price, last price and bidding price.
+
+
+
+Many exchange APIs offer a summary of bids and asks at the current time.
+Is there a way to get this data for points in the past?
+
+
+
+https://github.com/jxm262/btc-stats
+Bitcoin price api to calculate statistics on spot prices across exchanges.
+Uses the xchange.js module to retrieve current ticker prices.
+
+
+
+https://blog.pusher.com/build-a-realtime-cryptocurrency-watcher-pwa-using-vue-and-pusher/
+pwa stands for progressive web application
+Progressive Web App (PWA) is a term used to denote web applications that use the
+latest web technologies. Progressive Web Apps, also known as Installable Web Apps
+or Hybrid Web Apps, are regular web pages or websites
+but can appear to the user like traditional applications or
+native mobile applications. The application type attempts to combine features
+offered by most modern browsers with the benefits of mobile experience. –
+
+
+Ticker
+The ticker is a high level overview of the state of the market.
+It shows you the current best bid and ask, as well as the last trade price.
+It also includes information such as daily volume and how much the price
+has moved over the last day.
+
+
+https://www.coinapi.io/
+
+https://www.bitstamp.net/api/
+Bitstamp is one of the exchange and they have provided the APIs for live order
+top 100 bids.
+
+
+
+
+https://data.bitcoinity.org/markets/exchanges/USD/30d
+https://data.bitcoinity.org/markets/exchanges_data
+These sites show bitcoin graphs
+
+
+http://quandl4j.org/
+
+https://bitcoin.stackexchange.com/questions/28265/how-is-bid-and-ask-calculated-for-crypto-currencies
+
+
+https://www.bitstamp.net/api/
+
+https://apiv2.bitcoinaverage.com/
+
+The Difference Between BID, ASK, BUY, and OFFER in Bitcoin Trading
+https://www.bitcoinmarketjournal.com/difference-bid-ask-buy-offer-cryptocurrency-trading/
+bid - wanted or buyer
+ask - offer - seller
+Offer = Owner !
+Bidder = Buyer!﻿
+
+
+** https://www.youtube.com/watch?v=fwEOxxMNwCo
+*** https://www.youtube.com/watch?v=7UV-_3Qu5l0
+**** https://www.youtube.com/watch?v=I7fw2rhRdtc
+*** https://www.youtube.com/watch?v=LSkEWrCT-eo
+        - Buy/Sell Walls and Order Books - What You Need To Know
+Must Watch to understand bidding and selling price or BID and ASK
+BId and volume is also important
+
+1> Order-book :- current BID - Means If you want to buy and ASK - if you want to sell.
+Current Order book.
+2> Market / Placing Order directly at given price -
+
+
+
+https://bitcoin.stackexchange.com/questions/28265/how-is-bid-and-ask-calculated-for-crypto-currencies
+
+https://www.luno.com/en/api
+
+
+https://blockchain.info/api/exchange_rates_api
+https://blockchain.info/ticker
+
+https://www.coindesk.com/api/
+
+https://bitcointicker.co/
